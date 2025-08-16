@@ -1,2 +1,2 @@
 # mcpatched
-patch apps
+patch apps and music packs
